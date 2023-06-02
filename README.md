@@ -5,6 +5,5 @@ Added (Python with matplotlib and other libraries in) Jupyter notebooks I made d
 &nbsp;
 
 &nbsp;&nbsp;&nbsp;   PH526x: Using Python for Research
-&nbsp;
 
 &nbsp;&nbsp;&nbsp;   HarvardX
