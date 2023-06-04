@@ -15,6 +15,8 @@ Valid Certificate ID
 &nbsp;
 ef0cfcd693e74fa2a60f169453395a4c
 
+I made the below image from code (some of which is shown further below); but, this was not from any course.
+
 ![Searle_matplotlib](https://github.com/programweb/matplotlib/assets/12736699/f7cea54b-6a29-41d4-bc45-44075a52f1a3)
 
 ```python
@@ -36,3 +38,5 @@ surf = ax.plot_surface(
     
 plt.show()
 ```
+
+
