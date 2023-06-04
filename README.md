@@ -6,10 +6,10 @@ Added (Python with matplotlib and other libraries in) Jupyter notebooks I made d
 
 &nbsp;&nbsp;&nbsp;   PH526x: Using Python for Research
 
-&nbsp;&nbsp;&nbsp;   HarvardX (__Certificate ID: ef0cfcd693e74fa2a60f169453395a4c __)
+&nbsp;&nbsp;&nbsp;   HarvardX (Certificate ID: ef0cfcd693e74fa2a60f169453395a4c)
 &nbsp;
 
-I made the below image from code (some of which is shown further below); but, this was not from any course.
+_ _I made the below image from code (some of which is shown further below); but, this was not from any course._ _
 
 ![Searle_matplotlib](https://github.com/programweb/matplotlib/assets/12736699/f7cea54b-6a29-41d4-bc45-44075a52f1a3)
 
